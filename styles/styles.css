@@ -1,0 +1,22 @@
+#jumbo {
+    text-shadow: 30%;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/46/Cheez-It-Crackers.jpg);
+}
+
+#jumbo1 {
+    text-shadow: 30%;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/46/Cheez-It-Crackers.jpg);
+}
+
+#middle {   
+    padding-top: 2em;
+}
+
+#end {
+    padding-bottom: 1em;
+}
+
+#mixed {
+    align-content: center;
+    padding-left: 34.5%;
+}
